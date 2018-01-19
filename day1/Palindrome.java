@@ -24,10 +24,10 @@ class Palindrome{
 			}
 		}
 		if(flag == 1){
-			System.out.println("palin");
+			System.out.println("palindrome");
 		}
                 else{
-			System.out.println("!palin");
+			System.out.println("not palindrome");
 		}
 		
 	}	
